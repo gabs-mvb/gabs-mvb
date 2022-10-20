@@ -2,10 +2,11 @@
 
 > Sou Aluno na Universidade SPTECH, estou interessado em aprender novas técnologias e desenvolver conhecimento
 
-🔭 Estou Atualmente fazendo o projeto da Empresa JET, focado em fazer as validações da Aplicação Web
+- 🔭 Estou Atualmente fazendo o projeto da Empresa JET, focado em fazer as validações da Aplicação Web
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+- 🌱 Atualmente estou aprendendo técnicas de Visão Computacional e Aprendizado Profundo usando Javascript, HTML5, CSS3. 
 
+- 🤝 Estou procurando colaborar em projetos de ciência de dados e aprendizado profundo. 
 ----
 
 ## 🚀 Minhas Skills
