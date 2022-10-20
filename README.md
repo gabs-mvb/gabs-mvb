@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Gabriel Macedo Vilas Boas}!</strong>
+## 💜 Olá, meu nome é <strong>Gabriel Macedo Vilas Boas!</strong>
 
 > Sou Aluno na Universidade SPTECH, estou interessado em aprender novas técnologias e desenvolver conhecimento
 
