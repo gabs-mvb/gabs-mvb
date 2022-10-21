@@ -1,6 +1,6 @@
 ## 🙋‍♂‍ Olá, meu nome é <strong>Gabriel Macedo Vilas Boas!</strong>
 
-> Sou Aluno na Universidade SPTECH, estou interessado em aprender novas técnologias e desenvolver conhecimento
+> Sou Aluno na Faculdade SPTECH, estou interessado em aprender novas técnologias e desenvolver conhecimento
 
 - 🔭 Estou Atualmente fazendo o projeto da Empresa JET, focado em fazer as validações da Aplicação Web
 
