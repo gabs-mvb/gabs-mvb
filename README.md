@@ -2,7 +2,7 @@
 
 > Sou Aluno na Faculdade SPTECH, estou interessado em aprender novas técnologias e desenvolver conhecimento
 
-- 🔭 Estou Atualmente fazendo o projeto da Empresa JET, focado em fazer as validações da Aplicação Web
+- 🔭 Estou Atualmente fazendo o projeto Tracking Digital Solutions, focado em fazer as validações da Aplicação Web
 
 - 🌱 Atualmente estou aprendendo técnicas de Visão Computacional e Aprendizado Profundo usando Javascript, HTML5, CSS3. 
 
