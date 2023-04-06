@@ -2,11 +2,12 @@
 
 > Sou Aluno na Faculdade SPTECH, estou interessado em aprender novas técnologias e desenvolver conhecimento
 
-- 🔭 Estou Atualmente fazendo o projeto Tracking Digital Solutions, focado em fazer as validações da Aplicação Web
+- 🔭 Estou Atualmente fazendo o projeto Tracking Digital Solutions, focado em fazer as validações da Aplicação Web e Desenvolvimento Java
 
 - 🌱 Atualmente estou aprendendo técnicas de Visão Computacional e Aprendizado Profundo usando Javascript, HTML5, CSS3. 
 
-- 🤝 Estou procurando colaborar em projetos de ciência de dados e aprendizado profundo. 
+- 🤝 Estou procurando colaborar em projetos aprendizado profundo.
+
 ----
 
 ## 🚀 Minhas Skills
