@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprendendo técnicas de Visão Computacional e Aprendizado Profundo usando Javascript, HTML5, CSS3. 
 
-- 🤝 Estou procurando colaborar em projetos aprendizado profundo.
+- 🤝 Estou procurando colaborar em projetos com aprendizado profundo.
 
 ----
 
