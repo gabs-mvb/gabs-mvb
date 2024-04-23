@@ -10,7 +10,7 @@
 - :man_student:	Sou formado no ensino Técnico no curso de Informática para Internet (Desenvolvimento Web), com experiência em colaborações e projetos particulares.
 
 - :books: Atualmente estou cursando Análise e Desenvolvimento de Sistemas na São Paulo Tech School, com amplo conhecimento em tecnologias emergentes no mercado.
-----
+
 
 ## 🚀 Minhas Skills
 
@@ -46,8 +46,8 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
 </div>
 
----
+
 
 ## ⭐ Informações sobre minha conta GitHub
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabs-mvb&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabs-mvb&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
