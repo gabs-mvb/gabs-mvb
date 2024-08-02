@@ -9,7 +9,7 @@
 
 - :man_student:	Sou formado no ensino Técnico no curso de Informática para Internet (Desenvolvimento Web), com experiência em colaborações e projetos particulares.
 
-- :books: Atualmente estou cursando Análise e Desenvolvimento de Sistemas na São Paulo Tech School, com amplo conhecimento em tecnologias emergentes no mercado.
+- :books: Sou formado no em Análise e Desenvolvimento de Sistemas na São Paulo Tech School, com amplo conhecimento em tecnologias emergentes no mercado.
 
 
 ## 🚀 Minhas Skills
