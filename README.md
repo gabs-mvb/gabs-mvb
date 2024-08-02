@@ -49,5 +49,6 @@
 
 
 ## ⭐ Informações sobre minha conta GitHub
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabs-mvb&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=gabs-mvb)](https://git.io/streak-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabs-mvb&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=gabs-mvb)](https://git.io/streak-stats) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-mvb&exclude_repo=github-readme-stats,anuraghazra.github.io) 
